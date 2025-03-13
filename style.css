@@ -49,6 +49,13 @@ a:hover {
   color: #042d53;
 }
 
+mark {
+  background-color: #ffea00;
+  color: #042d53;
+  font-size: 18px;
+  font-weight: 500;
+}
+
 .home-icon {
   position: fixed;
   top: 10px;
